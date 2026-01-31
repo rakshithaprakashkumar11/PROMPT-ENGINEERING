@@ -1,7 +1,7 @@
 # PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
-Name: P.Rakshitha
-Reg no: 212223220083
+# Name: P.Rakshitha
+# Reg no: 212223220083
 
 Experiment:
 Develop a comprehensive report for the following exercises:
